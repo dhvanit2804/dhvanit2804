@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Dhvanit Parate Currently i am learning Java Full-Stack development</h2>
+<h2 align="left">Hi 👋! I am Dhvanit Parate Currently i am learning Python Full-Stack development</h2>
 
 ###
 
