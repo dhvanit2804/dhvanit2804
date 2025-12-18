@@ -46,6 +46,6 @@
 
 ###
 
-<h5 align="left">💬 Ask me about :- Html, Css, JS, React.js<br><br>- 📫 How to reach me :- dhvanitparate123@gmail.com</h5>
+<h5 align="left">💬 Ask me about :- Html, Css, JS, React.js, Python, Django, MySQL, Database<br><br>- 📫 How to reach me :- dhvanitparate123@gmail.com</h5>
 
 ###
